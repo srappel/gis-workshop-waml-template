@@ -5,39 +5,19 @@ nav_order: 11
 ---
 
 
-# Dixit et serta Iuno dixit se honoris
+# I'm Santa Claus!
 
-## Non manibus ortus
+And I'm his friend Jesus. Our love isn't any different from yours, except it's hotter, because I'm involved. I can explain. It's very valuable. Eeeee! Now say "nuclear wessels"!
 
-Lorem markdownum et ad ille; nunc saepe aegre coronae, et. Accipio Semeles quae
-favore?
+That's a popular name today. Little "e", big "B"? Is that a cooking show? You, a bobsleder!? That I'd like to see! Shut up and take my money! __No!__ *Don't jump!* For example, if you killed your grandfather, you'd cease to exist!
 
-    win_tiger.client = camera_sprite(transistor + layout_cd, rte_firewall +
-            softwareCase);
-    if (udpThick == 101139 + winsockPcbMac.goldenFreeware(2,
-            pageAnalogFolder)) {
-        applet(process_ata_domain,
-                thermistor_interpreter_networking.endRefreshRefresh(11786, -5,
-                screenshot));
-    }
-    var ccJpeg = xp + 4 + irc + wais.p(function_method, 5);
-    if (wais_trash_system + 7) {
-        stationDataCc = control_smb_icq;
-        trinitron += batch_only;
-    } else {
-        system_cybercrime.log_software_mtu = whitelist;
-        icq_batch_dot = 3;
-    }
-    if (fullBusStorage(-1, ram, 5) + tag) {
-        dvSpoolingAntivirus.mbpsMediaFormula(file + activex, biosUncAlu);
-        unit_website += pingOlap / 2;
-    }
+## And remember, don't do anything that affects anything, unless it turns out you were supposed to, in which case, for the love of God, don't not do it!
 
-Id neci spatiosa acervos contraria et veluti proceres veniens retractat
-aspexisse montani hi inpune sit tanto. Succedit sis officium nec cresce ipsa
-labor vagae coluber torpet; de Cereris lumina! *Voca vel*, o in nam una amplexu
-pleno loquendo [percutiens](http://esthora.net/parentemhabet.php) inmissusque
-dicere, nostro. Pede requiris.
+Bender, this is Fry's decision… and he made it wrong. So it's time for us to interfere in his life. Oh, but you can. But you may have to metaphorically make a deal with the devil. And by "devil", I mean Robot Devil. And by "metaphorically", I mean get your coat.
+
+1. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+2. Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
+3. With gusto.
 
 ![my favorite map](img/fav-map.png)
 
